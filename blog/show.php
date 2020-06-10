@@ -61,15 +61,18 @@
 
     <div class="container mt-5">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">
-                        Ini Judul Blog
+                        Ini Judul Blog Development
                     </div>
                     <div class="card-body">
                         Ini konten blog
                     </div>
                 </div>
+            </div>
+            <div class="col-md-4">
+                Ini sidebar
             </div>
         </div>
     </div>
